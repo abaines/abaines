@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm a Lead Software Development Engineer & Mentor 🚀
+
+<!-- previous GitHub accounts during various points in my life: abaines-vt, abaines-phx, abaines-nextup -->
+
+Go Hokies! 🧡
+
+
+
+
+
 <!--
 **abaines/abaines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
