@@ -40,16 +40,24 @@ My expertise includes C#, Python, Java, & TypeScript.
 ### 🔧 Technologies & Skills
 
 **Languages:**
-`C#` `Python` `Java` `TypeScript` `JavaScript` `SQL` `HTML/XML` `C/C++` `LUA`
+`C#` `Python` `Java` `TypeScript`
+`JavaScript` `HTML/XML` `C/C++` `LUA`
 
 **Frameworks & Libraries:**
-`.NET/ASP.NET` `Node.js` `React` `Angular` `Django` `Spring Boot/Spring` `Hibernate` `Entity Framework (EF) Core` `Material UI` `React Redux` `React Router`
+`.NET/ASP.NET` `Node.js` `React`
+`Django` `Entity Framework (EF) Core`
+`Material UI` `React Redux` `React Router`
+`Spring Boot/Spring` `Hibernate`  `Angular`
 
 **Tools & Platforms:**
-`Docker` `Git & GitHub` `GitHub Actions` `AWS` `Azure` `Jenkins` `Bitbucket Pipelines` `RabbitMQ` `Redis` `Sentry` `Datadog` `VMWare`
+`Docker` `Git & GitHub` `GitHub Actions` `AWS`
+`Redis` `Sentry` `Datadog`
+`Azure` `RabbitMQ` `VMWare`
 
 **Methodologies & Principles:**
-`Agile / Scrum` `DevOps & CI/CD` `Automated Testing & TDD` `Static Code Analysis` `SOLID Principles` `RESTful APIs` `Pair Programming` `Code Review` `Fail-Fast`
+`SOLID Principles` `Pair Programming` `Code Review` `Fail-Fast`
+`DevOps & CI/CD` `Automated Testing & TDD` `Static Code Analysis` 
+`Agile / Scrum` `RESTful APIs`
 
 ---
 
